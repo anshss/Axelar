@@ -1,13 +1,10 @@
 # Axelar
 
 My cross chain tx from polygon to avalanche:
-https://testnet.snowtrace.io/tx/0x59aa762366d60b48cc2f95345918384b2decb1d50915cc2b44e391b43131cc68
+https://testnet.snowtrace.io/tx/0xb13573af14a9cf6c5ec82ab7c504801dfb1235a98189223c146cc1ee0b75a7da
 
 polygon:
 https://mumbai.polygonscan.com/tx/0xe60cd09ef7e5f5912873cc9c574327dc7b89a40dd753f3e2cb28d2cf84da5260
-
-avalanche:
-https://testnet.snowtrace.io/tx/0xb13573af14a9cf6c5ec82ab7c504801dfb1235a98189223c146cc1ee0b75a7da
 
 Axelarscan:
 https://testnet.axelarscan.io/gmp/0xe60cd09ef7e5f5912873cc9c574327dc7b89a40dd753f3e2cb28d2cf84da5260
